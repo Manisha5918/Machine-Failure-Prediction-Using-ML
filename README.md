@@ -52,7 +52,7 @@ and predicts:
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 
 ```
@@ -76,7 +76,7 @@ Industrial Sensor Dataset
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 
 ```
@@ -384,6 +384,4 @@ Developed by
 **Manisha G**
 
 
----
 
-⭐ This project demonstrates an end-to-end AI solution combining Machine Learning, Backend API development, and Frontend Engineering.
